@@ -1,0 +1,91 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "lib": [
+            "dom",
+            "dom.iterable",
+            "esnext"
+        ],
+        "allowJs": true,
+        "skipLibCheck": true,
+        "strict": false,
+        "forceConsistentCasingInFileNames": true,
+        "noEmit": true,
+        "esModuleInterop": true,
+        "module": "esnext",
+        "moduleResolution": "node",
+        "resolveJsonModule": true,
+        "isolatedModules": true,
+        "jsx": "preserve",
+        "baseUrl": ".",
+        "paths": {
+            "@components/*": [
+                "src/components/*"
+            ],
+            "@components": [
+                "src/components"
+            ],
+            "@hooks/*": [
+                "src/hooks/*"
+            ],
+            "@hooks": [
+                "src/hooks"
+            ],
+            "@interfaces/*": [
+                "src/interfaces/*"
+            ],
+            "@interfaces": [
+                "src/interfaces"
+            ],
+            "@styles/*": [
+                "src/styles/*"
+            ],
+            "@styles": [
+                "src/styles"
+            ],
+            "@app-data/*": [
+                "src/app/*"
+            ],
+            "@app-data": [
+                "src/app"
+            ],
+            "@public/*": [
+                "public/*"
+            ],
+            "@public": [
+                "public"
+            ],
+            "@i18n": [
+                "./i18n.json"
+            ],
+            "@test/*": [
+                "test/*"
+            ],
+            "@test": [
+                "test"
+            ],
+            "@constants/*": [
+                "src/constants/*"
+            ],
+            "@constants": [
+                "src/constants"
+            ],
+            "@theme/*": [
+                "src/theme/*"
+            ],
+            "@theme": [
+                "src/theme"
+            ]
+        }
+    },
+    "include": [
+        "next-env.d.ts",
+        "**/*.ts",
+        "**/*.tsx"
+    ],
+    "exclude": [
+        "node_modules",
+        "test/*",
+        "cypress/*"
+    ]
+}

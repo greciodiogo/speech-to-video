@@ -1,0 +1,55 @@
+{
+    "name": "audio-to-video",
+    "plugins": [
+        {
+            "name": "Styled Components",
+            "description": "Utilising tagged template literals (a recent addition to JavaScript) and the power of CSS, styled-components allows you to write actual CSS code to style your components.",
+            "url": "https://styled-components.com/docs"
+        },
+        {
+            "name": "Fetch",
+            "description": "Next.js has a built-in polyfill for the fetch API. You don't need to worry about using it on either server or client side.",
+            "url": "https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API"
+        },
+        {
+            "name": "Axios",
+            "description": "Promise based HTTP client for the browser and node.js.",
+            "url": "https://github.com/axios/axios"
+        },
+        {
+            "name": "SVGR",
+            "description": "Transform SVGs into React components.",
+            "url": "https://react-svgr.com/docs/getting-started/"
+        },
+        {
+            "name": "next-translate",
+            "description": "Tiny and powerful i18n tools (Next plugin + API) to translate your Next.js pages.",
+            "url": "https://github.com/vinissimus/next-translate"
+        },
+        {
+            "name": "ESLint",
+            "description": "A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript. Maintain your code quality with ease.",
+            "url": "https://eslint.org/docs/user-guide/getting-started"
+        },
+        {
+            "name": "Prettier",
+            "description": "An opinionated code formatter; Supports many languages; Integrates with most editors.",
+            "url": "https://prettier.io/docs/en/index.html"
+        },
+        {
+            "name": "lint-staged",
+            "description": " The concept of lint-staged is to run configured linter (or other) tasks on files that are staged in git.",
+            "url": "https://github.com/okonet/lint-staged"
+        },
+        {
+            "name": "Testing Library",
+            "description": "The React Testing Library is a very light-weight solution for testing React components. It provides light utility functions on top of react-dom and react-dom/test-utils.",
+            "url": "https://testing-library.com/docs/"
+        },
+        {
+            "name": "Cypress",
+            "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+            "url": "https://docs.cypress.io/guides/overview/why-cypress.html"
+        }
+    ]
+}

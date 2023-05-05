@@ -1,0 +1,25 @@
+{
+    "name": "Speech to Video",
+    "hello": "Diga olá ao ",
+    "img-description": "Fluxo de transformação de audio ou fala para vídeo",
+    "app-description": "O Speech to Video, transforma o seu discurso em um conjunto de imagens gerando um video que corresponde a junção das imagens com o seu discurso.",
+    "language": "Pt to English",
+    "errors": {
+        "something-wrong": "Aconteu Alguma coisa na busca de imagens.",
+        "something-wrong-general": "Alguma coisa aconteceu. Porfavor tente denovo"
+    },
+    "record": {
+        "media_aborted": "Mídia abortada",
+        "permission_denied": "permissão negada",
+        "no_specified_media_found": "Nenhuma mídia especificada encontrada",
+        "media_in_use": "Mídia em uso",
+        "invalid_media_constraints": "Restrições de mídia inválidas",
+        "no_constraints": "Sem restrições",
+        "recorder_error": "Erro do gravador",
+        "idle": "Ocioso",
+        "acquiring_media": "Aquisição de mídia",
+        "recording": "Gravando",
+        "stopping": "Parando",
+        "stopped": "Parado"
+    }
+}

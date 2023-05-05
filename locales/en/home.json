@@ -1,0 +1,19 @@
+{
+    "title": "Home",
+    "step-one": {
+        "drag-n-drop": {
+            "inactive": "Drag n' drop the audio here, or click to select the audio",
+            "active": "Drop audio here. Only .flac is supported"
+        },
+        "title": "Transform audios to video like never before",
+        "message": "You can turn your audio into video by uploading a file or you can record an audio now and transform it video by clicking the button to record"
+    },
+    "step-two": {
+        "labels": {
+            "select": "Select",
+            "remove": "Remove",
+            "add-images":"Add images",
+            "transform":"Transform now"
+        }
+    }
+}

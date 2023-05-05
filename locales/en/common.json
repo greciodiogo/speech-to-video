@@ -1,0 +1,25 @@
+{
+    "name": "Speech to Video",
+    "hello": "Sey Hello to ",
+    "img-description": "Speech to video transform flow",
+    "app-description": "Speech to Video transforms your speech into a set of images generating a video that corresponds to the junction of the images with your speech.",
+    "language": "En para Português",
+    "errors": {
+        "something-wrong": "Something happened in the search for images.",
+        "something-wrong-general": "Something happened. Please try again."
+    },
+    "record": {
+        "media_aborted": "Media aborted",
+        "permission_denied": "Permission denied",
+        "no_specified_media_found": "No specified media found",
+        "media_in_use": "Media in use",
+        "invalid_media_constraints": "Invalid media constraints",
+        "no_constraints": "No constraints",
+        "recorder_error": "Recorder error",
+        "idle": "Idle",
+        "acquiring_media": "Acquiring media",
+        "recording": "Recording",
+        "stopping": "Stopping",
+        "stopped": "Stopped"
+    }
+}
